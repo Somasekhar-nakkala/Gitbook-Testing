@@ -38,3 +38,6 @@ You should have access to a Kubernetes cluster (with 1 node, 4CPU with 16GB RAM)
 
 Follow the procedure below for Quick Installation of ISD for Argo.
 
+
+
+gdsgdgsagsagf

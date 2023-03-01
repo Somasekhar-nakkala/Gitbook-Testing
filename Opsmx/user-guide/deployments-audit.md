@@ -18,11 +18,13 @@ The Deployments Audit page contains a list of all the deployments of the applica
 * **Namespace**: Namespace name where application is deployed in Destination Cluster.
 * **Cluster Name**: Name of the cluster where application is deployed.
 
-sss
-
 #### Show/Hide Columns <a href="#show-hide-columns" id="show-hide-columns"></a>
 
-You can opt to show or hide these columns in the list available. To do so, click the menu icon as shown in the image below:![](https://lh3.googleusercontent.com/2luywDghe02PtVPxgH0kaUucEUcVrJoh-7HYo\_5yaWGaiQ6xvXORT4YIU-bNre54WnrwdI\_BXWHpjiVpicWMQRxwCY8No4Id1-3HFv5a9m0Qafp-CUekNTWt1vLcWRYOdQ3O9CL3n-Z-0eczU1RWC4NKmFwzLxhmmlAAYYJHg-VFZjv0Dafr8d4c4w)The list of available columns will appear. You can select/deselect a particular column from the drop-down to add/remove it from the deployments table as shown below:![](https://lh3.googleusercontent.com/jdTuK7XLdbTCc-PhnTXN\_IdXLWxrvHH06DhYHifjYpDJdUylf-NTlPNviN6LDzR65dOjmsw0sVDfSPIm0R4ZrjpWuotMybd3lKRQl17HoztF\_FGudF-5kHbVlH15HHI5vTltCw4WUQcuI1lZKAQUh5AcA3piMWZjryWJQ7lE9KxN1m20i21HzxxrMw)
+You can opt to show or hide these columns in the list available. To do so, click the menu icon as shown in the image below:![](https://lh3.googleusercontent.com/2luywDghe02PtVPxgH0kaUucEUcVrJoh-7HYo\_5yaWGaiQ6xvXORT4YIU-bNre54WnrwdI\_BXWHpjiVpicWMQRxwCY8No4Id1-3HFv5a9m0Qafp-CUekNTWt1vLcWRYOdQ3O9CL3n-Z-0eczU1RWC4NKmFwzLxhmmlAAYYJHg-VFZjv0Dafr8d4c4w)
+
+The list of available columns will appear. You can select/deselect a particular column from the drop-down to add/remove it from the deployments table as shown below:
+
+![](https://lh3.googleusercontent.com/jdTuK7XLdbTCc-PhnTXN\_IdXLWxrvHH06DhYHifjYpDJdUylf-NTlPNviN6LDzR65dOjmsw0sVDfSPIm0R4ZrjpWuotMybd3lKRQl17HoztF\_FGudF-5kHbVlH15HHI5vTltCw4WUQcuI1lZKAQUh5AcA3piMWZjryWJQ7lE9KxN1m20i21HzxxrMw)
 
 #### **Search** <a href="#search" id="search"></a>
 
@@ -30,10 +32,14 @@ Let’s take an example where you have around 200 deployments on the list. Howev
 
 #### **Select Time Range** <a href="#select-time-range" id="select-time-range"></a>
 
-You can filter the deployments of applications for a specific period. To do so, click the “**Last 7 Days**” drop-down as shown in the image below.The Applications and Deployments summary counts also change based on the time filter.![](https://lh4.googleusercontent.com/ncVt9tiZERDN9sBk2cZ9QjpB5Z-7fnUxgSvH7\_ayVuvosMQbNVNHr5Kz-cDNpH-dL2bARKzYR33L\_h\_3Z0Vl8FEj5oiA3HBzvhLbJcNOaoCr4CCNlGYQzM2L6bFN8B5-4n9GH5F3qrjND5ri\_P3cLuX4FcItucJxEVm1RNNzAmmMc8oBb03PBCvi6w)
+You can filter the deployments of applications for a specific period. To do so, click the “**Last 7 Days**” drop-down as shown in the image below.The Applications and Deployments summary counts also change based on the time filter.
+
+![](https://lh4.googleusercontent.com/ncVt9tiZERDN9sBk2cZ9QjpB5Z-7fnUxgSvH7\_ayVuvosMQbNVNHr5Kz-cDNpH-dL2bARKzYR33L\_h\_3Z0Vl8FEj5oiA3HBzvhLbJcNOaoCr4CCNlGYQzM2L6bFN8B5-4n9GH5F3qrjND5ri\_P3cLuX4FcItucJxEVm1RNNzAmmMc8oBb03PBCvi6w)
 
 #### Select CD Tool <a href="#select-cd-tool" id="select-cd-tool"></a>
 
-You can filter the deployments of applications for a specific CD Tool. To do so, click the “**All CD Tools**” drop-down as shown in the image below. The Applications and Deployments summary counts also change based on the “**CD Tool**” filter.![](https://lh3.googleusercontent.com/CR2EMm4oQWl9Zy-rUfroQA9n76YI-WLNDsZpIoYRuRVPNYzgZgFp7qLMkql\_WQdlj6ckSZHtio-ujjMQcLzvGdEpZQotP3dlvFJ3\_Iz1fpRXdyksOiVl5i1Mzb6wO1W2zgWDFxe8plkvkuirgijwyfo3\_8bLF3cAEJHqOhEmRejzlXeZkwgk86II2Q)
+You can filter the deployments of applications for a specific CD Tool. To do so, click the “**All CD Tools**” drop-down as shown in the image below. The Applications and Deployments summary counts also change based on the “**CD Tool**” filter.
+
+![](https://lh3.googleusercontent.com/CR2EMm4oQWl9Zy-rUfroQA9n76YI-WLNDsZpIoYRuRVPNYzgZgFp7qLMkql\_WQdlj6ckSZHtio-ujjMQcLzvGdEpZQotP3dlvFJ3\_Iz1fpRXdyksOiVl5i1Mzb6wO1W2zgWDFxe8plkvkuirgijwyfo3\_8bLF3cAEJHqOhEmRejzlXeZkwgk86II2Q)
 
 ****

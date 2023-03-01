@@ -36,6 +36,4 @@ You can filter the deployments of applications for a specific period. To do so, 
 
 You can filter the deployments of applications for a specific CD Tool. To do so, click the “**All CD Tools**” drop-down as shown in the image below. The Applications and Deployments summary counts also change based on the “**CD Tool**” filter.![](https://lh3.googleusercontent.com/CR2EMm4oQWl9Zy-rUfroQA9n76YI-WLNDsZpIoYRuRVPNYzgZgFp7qLMkql\_WQdlj6ckSZHtio-ujjMQcLzvGdEpZQotP3dlvFJ3\_Iz1fpRXdyksOiVl5i1Mzb6wO1W2zgWDFxe8plkvkuirgijwyfo3\_8bLF3cAEJHqOhEmRejzlXeZkwgk86II2Q)
 
-#### **Download Deployments Audit History** <a href="#download-deployments-audit-history" id="download-deployments-audit-history"></a>
-
-To download the .csv file of Deployment Audit History, Click on the download icon as shown in the image below.
+****

@@ -300,11 +300,3 @@ The report includes a detailed analysis of logs and metrics between the baseline
 <figure><img src="https://lh3.googleusercontent.com/kj0XBltU1hyhqRjIStmf1xkjLdH-R1oLTNOrPf9XNAdml2OVHIKn5oKxUE-lWAx9AEJMvv2qU2PxjA1ieaaHxl960D7bNbYDvo9rmT1K4oEEB-wlR_gXOCXWuQXTOPIu_PBejAVWlwOWipwlJ0pagOlbeFEsaNdzF4bzIOsMizQh1AnejBv5Lf6M95Buow" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://lh6.googleusercontent.com/fhUMN68lXdFr4B7p4qDXm51BVnOHYt91TUrS8UlmJSt2edRKFM4zzP_ImbIjKIAc3avf3ZZYwL-ie7bOEtGyJVbsFFi9H_VnKDAwNtnREOrnBL-vE_Td2uUjaFbFjjTJUyLMcXOIkjNXYTvVsfbWiDc" alt=""><figcaption></figcaption></figure>
-
-### Summary
-
-The ISD platform offers a sophisticated machine learning-based analysis tool for your Argo Rollout that significantly reduces the risk during the progressive release of new applications.
-
-ISD automated analysis utilizes log and metric data sources to automatically evaluate and identify potential risks in new releases, streamlining the analysis process and reducing the potential for errors.
-
-For more information, visit [**https://www.opsmx.com/continuous-verification-for-argo/**](https://www.opsmx.com/continuous-verification-for-argo/)****
